@@ -11,6 +11,45 @@
 
 ## 📘 서비스 구성
 
+<img src="https://github.com/user-attachments/assets/2b54b239-9b86-4aa5-8c32-109018b9080a" width="250"/>
+
+- **회원가입**
+  
+  - 앱을 시작하기 전에 회원가입을 해야만 이용이 가능
+  - 입력 정보: E-mail, 패스워드, 생일 등
+  - 가입 후 회원정보 수정도 가능
+
+<p>
+  <img src="https://github.com/user-attachments/assets/901ac321-dbfc-48ee-8656-cdf1f7e23e34" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1872d1c5-7980-44fd-95a1-9ff03454b3a0" width="250"/>
+</p>
+
+- **챗봇 서비스**
+
+  - 챗봇과 대화를 시작하면 서용자는 오늘 하루 있었던 일에 대해 이야기하고, 일정 대화량에 도달하면 AI 모델이 대화 내용을 분석하여 레포트로 출력
+  - 레포트 내용: 현재의 어려움, 조언, 추천 컨텐츠 등
+  - 추천 컨텐츠 구성: 영상(유튜브 링크), 음악(플레이리스트), 칼럼 등
+ 
+<p>
+  <img src="https://github.com/user-attachments/assets/b8176cb0-bb59-46ff-b75d-a5e0dc2fdf49" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5a1bd9d3-e96d-45c5-9f49-da4eddb04862" width="250"/>
+</p>
+   
+- **일기**
+  
+  - 일기 화면으로 넘어가면 사용자는 금일 있었던 일에 대한 일기를 작성할 수 있다.
+  - 작성한 일기는 후에 챗봇 기능 사용 시 AI의 다양한 분석 및 폭넓은 대화 가능
+  - 작성을 완료하고 저장하면 메인 화면에 오늘의 기분을 일기예보 형식으로 보여준다.
+  - 메인 화면의 캘린더에는 작성한 일기 목록들이 보여지고, 해당 날짜를 클릭하면 작성한 일기를 읽기 모드로 볼 수 있다(편집 X).   
+ 
+<p>
+  <img src="https://github.com/user-attachments/assets/719beed1-7718-450f-a81a-05688f19b28e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d37bf774-25fe-4c4c-8a87-dc092f38ad4b" width="250"/>
+</p>
+
+- **진단검사**
+  
+  - 진단검사 버튼을 클릭하면 진단검사표가 나오고, 원하는 유형의 검사를 실시하면 해당 검사결과를 팝업 형식으로 보여준다.
 
 ## ⚡ Team Mental Rescue (멘탈구조대 팀)
 
