@@ -2,7 +2,9 @@
   생성형 AI 기반 개인 맞춤형 챗봇 서비스
 </h1>
 
-<p align="center">이미지(앱 로고 or 대표사진) 추가</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a1bd9d3-e96d-45c5-9f49-da4eddb04862" width="300" />
+</p>
 
 ## 📌 Introduction
 이 챗봇 서비스는 사용자가 작성한 일기, 챗봇 간의 대화 내용 및 이를 토대로 나온 그날의 상태 분석결과 등을 바탕으로 컨텐츠를 추천해주거나 조언을 해주는 등 사용자의 심리를 안정시켜주는 멘탈케어 서비스입니다. 
