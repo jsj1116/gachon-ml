@@ -28,11 +28,11 @@
     </tr>
     <tr>
       <td> 문영균 </td>
-      <td> AI 파트 </td>
+      <td> AI </td>
     </tr>
     <tr>
       <td> 석민재 </td>
-      <td> AI 파트 </td>
+      <td> AI </td>
     </tr>
     <tr>
       <td> 정승준 </td>
