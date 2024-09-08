@@ -2,7 +2,7 @@
   생성형 AI 기반 개인 맞춤형 챗봇 서비스
 </h1>
 
-<p align="center">이미지 추가 예정</p>
+<p align="center">이미지(앱 로고 or 대표사진) 추가</p>
 
 ## 📌 Introduction
 이 챗봇 서비스는 사용자가 작성한 일기, 챗봇 간의 대화 내용 및 이를 토대로 나온 그날의 상태 분석결과 등을 바탕으로 컨텐츠를 추천해주거나 조언을 해주는 등 사용자의 심리를 안정시켜주는 멘탈케어 서비스입니다. 
@@ -62,17 +62,16 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   <br>
+  
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-  
 </div>
 
 ### AI
 <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  
 </div>
 
 ### Tool
