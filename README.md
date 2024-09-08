@@ -4,13 +4,13 @@
 
 <p align="center">이미지 추가 예정</p>
 
-## Introduction
+## 📌 Introduction 📌
 이 챗봇 서비스는 사용자가 작성한 일기, 챗봇 간의 대화 내용 및 이를 토대로 나온 그날의 상태 분석결과 등을 바탕으로 컨텐츠를 추천해주거나 조언을 해주는 등 사용자의 심리를 안정시켜주는 멘탈케어 서비스입니다. 
 
-## 프로젝트 구성
+## 📘 프로젝트 구성 📘
 
 
-## Team Mental Rescue (멘탈구조대 팀)
+## ⚡ Team Mental Rescue (멘탈구조대 팀) ⚡
 
 <table style="border: 2px;">
   <thead>
@@ -41,7 +41,7 @@
   </tbody>  
 </table>
 
-## 📚 기술 스택 📚
+## 📚 Stack 📚
 
 ### Front-end 
 <div> 
@@ -53,9 +53,6 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <br>
-
-  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 </div>  
 
 
@@ -78,15 +75,16 @@
   
 </div>
 
-### 협업 툴
+### Tool
 <div>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-## 프로젝트 기간
+
+## 📆 프로젝트 일정 📆
 
 ### 전체 기간: 2024.09.03 ~ 12.30
 
